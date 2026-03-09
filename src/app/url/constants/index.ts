@@ -1,0 +1,2 @@
+export const URL_REPOSITORY = Symbol('URL_REPOSITORY');
+export const URL_CLICK_REPOSITORY = Symbol('URL_CLICK_REPOSITORY');
